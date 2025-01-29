@@ -12,7 +12,7 @@ function Footer() {
             <a href="" className="font-bold ">
               <span
                 className="text-2xl
-              text-transparent duration-1000 text-neutral-950
+               duration-1000 text-neutral-900
               cursor-default text-stroke animate-title sm:text-5xl md:text-4xl whitespace-nowrap bg-clip-text"
               >
                 H
@@ -41,7 +41,7 @@ function Footer() {
         </div>
         <div className="mt-14 flex justify-between border-t-2 border-t-gray-300 pt-10">
           <p className="w-[16ch] text-gray-400 md:w-full text-center">
-            &copy; 2024 HChat. All rights reserved.
+            &copy; 2024 efekanheper. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="https://twitter.com" target="_blank">

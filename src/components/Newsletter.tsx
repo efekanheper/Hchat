@@ -7,8 +7,8 @@ const Newsletter: React.FC = () => {
     <section className="rounded-3xl bg-teal-50 flex max-w-6xl flex-col gap-10 px-8 pt-10 xl:mt-12 lg:px-12 xl:pt-10 xl:m-auto xl:mb-11 mt-24">
       <div className="space-y-1 ">
         <h2
-          className="z-10 text-3xl  font-bold text-center text-transparent duration-1000 text-neutral-950 
-        cursor-default text-stroke animate-title sm:text-5xl md:text-6xl whitespace-nowrap bg-clip-text"
+          className="z-10 text-3xl  font-bold text-center  duration-1000 text-neutral-900 
+        cursor-default text-stroke animate-title sm:text-5xl md:text-6xl  "
         >
           Join the waitlist for my
         </h2>

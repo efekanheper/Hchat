@@ -11,7 +11,7 @@ function Nav() {
               <a href="" className="font-bold ">
                 <span
                   className="text-2xl
-              text-transparent duration-1000 text-neutral-950 
+               duration-1000 text-neutral-900 
               cursor-default text-stroke animate-title sm:text-5xl md:text-4xl whitespace-nowrap bg-clip-text"
                 >
                   H
